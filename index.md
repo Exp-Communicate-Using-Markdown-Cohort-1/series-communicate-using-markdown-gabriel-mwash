@@ -1,4 +1,3 @@
-```
-$ whoami
-display's the name of the current user of the computer
-```
+- [ ] item 1
+- [x] item 2
+- [ ] item 3
