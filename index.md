@@ -1,1 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ whoami
+display's the name of the current user of the computer
+```
